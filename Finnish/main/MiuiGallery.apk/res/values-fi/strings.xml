@@ -2,9 +2,9 @@
 <resources>
   <string name="Import">Tuo</string>
   <string name="accept">Hyväksy</string>
-  <string name="accept_or_deny">%1$s shared album %2$s with you.</string>
+  <string name="accept_or_deny">%1$s jakoi albumin %2$s kanssasi.</string>
   <string name="action_fail_unknown_error">Toiminto epäonnistui tuntemattoman virheen takia.</string>
-  <string name="activity_not_found">No app is available to complete the action.</string>
+  <string name="activity_not_found">Sopiva sovellutus puuttuu.</string>
   <string name="add_account">Lisää tili</string>
   <string name="add_sharer">Lisää jakaja</string>
   <string name="add_to_cloud_album">Lisää pilveen</string>
@@ -21,13 +21,13 @@
   <string name="add_to_cloud_successfully_message">Lisätty MiCloud albumiin.</string>
   <string name="add_to_cloud_type_not_support_message">Tiedostotyyppiä ei tueta.</string>
   <string name="add_to_cloud_unknow_reasons">Tapahtui tuntematon virhe</string>
-  <string name="adding_recipients">Adding recipients...</string>
-  <string name="album_member">Album member %s</string>
+  <string name="adding_recipients">Lisää vastaanottojia...</string>
+  <string name="album_member">Albumin jäsenet %s</string>
   <string name="album_name">Albumin nimi</string>
   <string name="album_quota_fulfiled">"Can't create album; number of albums reached the limit.."</string>
-  <string name="album_share_exit_confirm">Are you sure you want to exit the shared album?</string>
+  <string name="album_share_exit_confirm">Oletko varma, että haluat poistua jaetusta albumista?</string>
   <string name="album_share_kicked">Sinut on poistettu kohteesta %1$s</string>
-  <string name="album_share_stat_content">New album sharing invitations</string>
+  <string name="album_share_stat_content">Uusi albumin jako kutsu</string>
   <string name="album_share_subtitle_accepting">Hyväksytään kutsua kohteelta %1$s...</string>
   <string name="album_share_subtitle_denying">Kieltäydytään kutsusta kohteelta %1$s...</string>
   <string name="album_share_subtitle_invited">Shared by %1$s, accept or ignore?</string>
