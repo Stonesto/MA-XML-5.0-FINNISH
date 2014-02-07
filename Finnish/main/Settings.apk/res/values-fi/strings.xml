@@ -708,12 +708,12 @@
   <string name="debug_intent_sender_label">Debug intent sender</string>
   <string name="debug_layout">Näytä asettelun rajat</string>
   <string name="debug_layout_summary">Näytä leikkeen rajat, marginaalit, jne.</string>
-  <string name="debug_log">User experience program</string>
+  <string name="debug_log">Käyttökokemus ohjelma</string>
   <string name="debug_monitoring_category">Valvonta</string>
-  <string name="deep_clean_tips_cache">"iconJotkin sovellukset käyttävät välimuistitiedostoja ladatakseen lisätiedostoja (esim. laulujen sanoituksia, musiikkia, kuvia jne.). Ole huolellinen tyhjentäessäsi näitä tiedostoja."</string>
+  <string name="deep_clean_tips_cache">"Jotkin sovellukset käyttävät välimuistitiedostoja ladatakseen lisätiedostoja (esim. laulujen sanoituksia, musiikkia, kuvia jne.). Ole huolellinen tyhjentäessäsi näitä tiedostoja."</string>
   <string name="deep_clean_tips_cache_content">"Jotkin sovellukset käyttävät välimuistitiedostoja ladatakseen lisätiedostoja. Ole huolellinen tyhjentäessäsi näitä tiedostoja."</string>
   <string name="deep_clean_tips_cache_title">Välimuistitiedostot</string>
-  <string name="deep_clean_tips_large_file">iconTyhjennys muistuttaa ainoastaan suurista tiedostoista(yli 10MB) jotka on tallennettu laitteeseen. Vain sinä voit päättää tarvitsetko niitä.</string>
+  <string name="deep_clean_tips_large_file">Tyhjennys muistuttaa ainoastaan suurista tiedostoista(yli 10MB) jotka on tallennettu laitteeseen. Vain sinä voit päättää tarvitsetko niitä.</string>
   <string name="deep_clean_tips_large_file_content">Suuret tiedostot (10MB+) jotka vievät tallennustilaa laitteella.</string>
   <string name="deep_clean_tips_large_file_title">Suuret tiedostot</string>
   <string name="deep_clean_tips_residual">"iconJäännökset ovat tiedostoja (esim. videoita, taustakuvia, musiikkia jne.), jotka on ladattu laitteen SD-kortille poistettujen sovellusten toimesta. Ole huolellinen tyhjentäessäsi niitä, ne voivat silti olla hyödyllisiä sinulle."</string>
@@ -767,7 +767,7 @@
   <string name="dirac_mode_in_ear">Xiaomi nappikuulokkeet</string>
   <string name="dirac_mode_off">Dirac pois päältä</string>
   <string name="dirac_mode_piston_100">Xiaomi piston-nappikuulokkeet</string>
-  <string name="disableNetwork">disableNetwork</string>
+  <string name="disableNetwork">Estä Verkko</string>
   <string name="disable_adb_debug_summary">Poista USB-virheenkorjaus käytöstä</string>
   <string name="disable_anti_spam_summary">Viestisuodatin pois käytöstä</string>
   <string name="disable_app_permission_summary">Käytönvalvonta on pois päältä</string>
@@ -982,7 +982,7 @@
   <string name="fw_clear_blacklist">Tyhjennä estolista</string>
   <string name="fw_clear_whitelist">Tyhjennä poikkeukset</string>
   <string name="fw_edit_keyword">Muokkaa avainsanaa</string>
-  <string name="fw_end_time">To</string>
+  <string name="fw_end_time">Minne</string>
   <string name="fw_import_blacklist">Tuo musta lista</string>
   <string name="fw_import_blacklist_confirm">%d numeroa valittuna, haluatko varmasti tuoda estolistaan?</string>
   <string name="fw_import_ms">Tuo puhelulokit ja viestit</string>
